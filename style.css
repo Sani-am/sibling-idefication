@@ -1,0 +1,36 @@
+body{
+    color: rgb(0, 49, 49);
+    background:rgb(226, 251, 255); 
+ }
+ 
+ .heading{
+ width: 80%;
+ font-size: 22px;
+ 
+ 
+ }
+ 
+ #camera{
+     border:2px outsrgb(117, 117, 117)ack;
+     width: 350px;
+     height: 300px;
+ }
+ 
+#result_object_name, #result_object_accuracy{
+     color: rgb(0, 0, 0);
+    
+ }
+
+ .name_of_objects{
+ font-family:'Aguafina Script', cursive;
+ font-size: 25px;
+ color: rgb(27, 0, 77);
+ }
+
+
+
+ .one,.two{
+     border: 2px rgb(0, 121, 10) outset;
+
+
+ }
